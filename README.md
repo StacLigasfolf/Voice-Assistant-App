@@ -19,7 +19,7 @@ for a joint game with friends, the challenge of the game is made by the "Pikkalo
 # Used technologies
 The whole project is written in pure Python version 3.10.4
 List of the main packages used:
-- <speech_recognition> # for speech recognition
+- speech_recognition # for speech recognition
 - pyttsx3 # for voice text output
 - os # to define microphone
 - from bs4 import BeautifulSoup # for data parsing
