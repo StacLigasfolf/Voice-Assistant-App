@@ -16,8 +16,8 @@
 # Add. possibility
 Implemented local game `"Pikkalo"` (question-answer) implemented in `game.py`
 for a joint game with friends, the challenge of the game is made by the "Pikkalo" team
-# Used technologies
-The whole project is written in pure Python version 3.10.4
+# Packages used
+The whole project is written in pure `Python version 3.10.4`
 List of the main packages used:
 - `speech_recognition` # for speech recognition
 - `pyttsx3` # for voice text output
